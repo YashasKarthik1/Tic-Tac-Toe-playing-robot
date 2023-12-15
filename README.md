@@ -1,4 +1,4 @@
-## Tic-Tac-Toe-playing-robot
+# Tic-Tac-Toe-playing-robot
 The project involves a robot equipped with a camera to detect arUco markers, enabling it to determine the relative distance to the arUco board.
 Calibration is performed by asking the user to crop the output frame, ensuring accurate colour detection for block placement and preventing mistaken colour detection.
 </br>
