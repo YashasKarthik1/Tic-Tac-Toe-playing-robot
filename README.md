@@ -17,5 +17,7 @@ The robot picks up and places blocks in a predefined location, considering the o
 The board is continuously updated, and the current state is displayed on the CV2 frame as a terminal output.
 The code checks for win conditions or a full board after each move, printing corresponding text and exiting the program if met.
 </br>
-![board image](BoardImage.jpg)</br>
 [YouTube Link for video explanation of the project](https://www.youtube.com/watch?v=1RMSOqQ_Wi8&ab_channel=YashasKarthik)
+</br>
+![board image](BoardImage.jpg)
+
