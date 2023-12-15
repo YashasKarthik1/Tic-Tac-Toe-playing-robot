@@ -19,5 +19,7 @@ The code checks for win conditions or a full board after each move, printing cor
 </br>
 [YouTube Link for video explanation of the project](https://www.youtube.com/watch?v=1RMSOqQ_Wi8&ab_channel=YashasKarthik)
 </br>
+</br>
+Image of the board with the arUco marker showing in the top right corner of the board </br>
 ![board image](BoardImage.jpg)
 
